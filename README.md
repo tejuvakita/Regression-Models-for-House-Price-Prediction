@@ -2,12 +2,12 @@
 # Regression Models for House Price Prediction
 
 ## Table of Content
-  * [Business Objective](#Business Objective)
-  * [Data Description](#Data Description)
-  * [Aim](#Aim)
-  * [Tech stack](#Tech stack)
-  * [Approach](#Approach)
-  * [Project Takeaways](#Project Takeaways)
+  * [Business Objective] (#Business-Objective)
+  * [Data Description] (#Data-Description)
+  * [Aim] (#Aim)
+  * [Tech stack] (#Tech-stack)
+  * [Approach] (#Approach)
+  * [Project Takeaways] (#Project-Takeaways)
 
 ## Business Objective
 
@@ -28,8 +28,8 @@ The goal is to predict sale prices for homes in Pune city.
 
 ## Tech stack
 
-**Language** - Python< /br>
-**Libraries** - sklearn, pandas, NumPy, matplotlib, seaborn, xgboost< /br>
+**Language** - Python< br\>
+**Libraries** - sklearn, pandas, NumPy, matplotlib, seaborn, xgboost< br\>
 
 ## Approach
 
